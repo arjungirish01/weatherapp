@@ -1,3 +1,5 @@
+
+
 Weather Application in Python
 Overview
 This is a simple yet powerful Weather Application built using Python. The app provides real-time weather updates, forecasts, and additional environmental details for any location worldwide. It uses a clean and user-friendly interface to deliver weather data such as temperature, humidity, wind speed, and weather conditions.
