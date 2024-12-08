@@ -7,6 +7,7 @@ Overview
 This is a simple yet powerful Weather Application built using Python. The app provides real-time weather updates, forecasts, and additional environmental details for any location worldwide. It uses a clean and user-friendly interface to deliver weather data such as temperature, humidity, wind speed, and weather conditions.
 
 Features
+
 Real-Time Weather Data: Get current weather details for any city or geographic location.
 5-Day Forecast: View weather predictions for the next five days.
 Search Functionality: Easily search for cities or use GPS-based location detection (if enabled).
@@ -15,6 +16,7 @@ Graphical Representation: View data through graphs or icons for better understan
 Error Handling: Displays meaningful messages for incorrect inputs or API errors.
 
 Technologies Used
+
 Python: Core programming language for development.
 Requests: To fetch data from weather APIs.
 Weather API: Integration with APIs like OpenWeatherMap for fetching weather data.
@@ -25,10 +27,11 @@ View real-time data or switch to a 5-day forecast for planning.
 Error handling ensures user-friendly messages are displayed for invalid inputs or network issues.
 
 Setup Instructions
+
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/weather-app-python.git
+git clone 
 Navigate to the project directory:
 bash
 Copy code
