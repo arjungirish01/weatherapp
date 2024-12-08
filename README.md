@@ -28,7 +28,7 @@ Error handling ensures user-friendly messages are displayed for invalid inputs o
 
 Setup Instructions
 
-Clone this repository:
+Clone this repository:https://github.com/arjungirish01/weatherapp.git
 bash
 Copy code
 git clone 
